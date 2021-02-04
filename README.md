@@ -1,3 +1,3 @@
 # OyagumaGames.github.io
 
-https://oyagumagames.github.io/index.html
+https://oyagumagames.github.io/FlyYacchiPolicy.html
